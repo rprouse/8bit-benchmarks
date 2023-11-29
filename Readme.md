@@ -39,4 +39,8 @@ I have copied a few entries from the original article into the table below. If t
 | TI-994A* | 3:46 | .00000011 | 2.6 |
 | Sinclair ZX81* | 4:23 | .0006685257 | 6.3 |
 | Sinclair Spectrum* | 4:39 | .0006685257 | 3.5 |
-| RC2014 MBasic CP/M | 0:34 | .187805 | 7.5 |
+| Agon Lite 2 BBC Basic 24-bit | 0:01 | .000257968903 | 0.2 |
+| Agon Lite 2 BBC Basic | 0:01 | .000257968903 | 6.0 |
+| RC2014 Classic MBasic ROM | 0:30 | .0338745 | 7.5 |
+| RC2014 Pro MBasic CP/M | 0:34 | .187805 | 7.5 |
+| Ben Eater 65C02 1 Mhz | 1:56 | .00104141235 | 11.2 |
